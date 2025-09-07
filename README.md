@@ -2,7 +2,7 @@
 <p align='center'>
 </p>
 
-<div size='20px'> Yo!, my name is Daniel, currently I'm studying CS in Pontificia Universidad Católica de Valparaíso
+<div size='20px'> Howdy my name is Daniel, currently I'm studying CS in Pontificia Universidad Católica de Valparaíso
 </div>
 
 <h2> About Me </h2>
