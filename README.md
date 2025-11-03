@@ -1,8 +1,8 @@
-<h1> Hola visitantes de mi perfil! <img src = "https://raw.githubusercontent.com/DaniSwi/DaniSwi/master/oiTeaTime.gif" width = 60px> </h1>
+<h1> Hoaaaaaal <img src = "https://raw.githubusercontent.com/DaniSwi/DaniSwi/master/oiTeaTime.gif" width = 60px> </h1>
 <p align='center'>
 </p>
 
-<div size='20px'> Howdy my name is Daniel, currently I'm studying CS in Pontificia Universidad Católica de Valparaíso
+<div size='20px'> PUCV Ingeniería Civil Informática 
 </div>
 
 <h2> About Me </h2>
