@@ -9,9 +9,9 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
-- 🌱 I’m currently learning C++, Git
+- 🌱 I’m currently learning: Machine Learning, Neural Networks, and others.
   
-- 💬 Ask me about Sql, Java, C, Python
+- 💬 Ask me about: NOTHING XD
   
 - ⚡ Fun fact: There's no fun fact lol
 
