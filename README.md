@@ -10,10 +10,6 @@
   
 - 🌱 I’m currently learning: Machine Learning, Neural Networks, and others.
   
-- 💬 Ask me about: NOTHING XD
-  
-- ⚡ Fun fact: There's no fun fact lol
-
 
 <h2> >؂0 <img src="https://raw.githubusercontent.com/DaniSwi/DaniSwi/master/oiTeaTime.gif" width="100px"> </h2>
 
